@@ -23,7 +23,7 @@ void squareperimeter(){
 void rectangalearea(){
     printf("\n enter value of l and b");
     float l,b;
-    scanf("%f%f",&l,&l);
+    scanf("%f%f",&l,&b);
     float recoeri=l*b;
     printf("\n Area of rectangle is %.2f",recoeri);
 }
